@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently working on a Responsive Web Page Design certification. <br>I am learning HTML, CSS and JavaScript.<br>I have also joined the 2024 Women Who Code Challenge! <br>
+I find programming exciting becasue I enjoy the process of solving problems and building something that others can interact with. My coding journey began as a personal desire to learn how to build a webpage for an About Me project. This inspired me to teach myselft the base foundations of Software Development. As I continue learning about Software Development, I have found that my passion is Accessibility and Front-End. 
+
+As I continue learning at the beginning of my journey to become a developer, I've accumulated hands-on experience with HTML, CSS, and JavaScript. Currently, I am completing free online courses, follow-along videos, and online exercises. 
+
+I am also interseted in other traning and developing opportunities for new Software Developers so don't hesitate to reach out with reccommdations. 
+
+Feel free to view my progress in my repository. 
 
 
 ## 🌐 Socials:
