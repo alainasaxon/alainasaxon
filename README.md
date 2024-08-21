@@ -1,5 +1,5 @@
 # 💫 About Me:
-I find programming exciting becasue I enjoy the process of solving problems and building something that others can interact with. My coding journey began as a personal desire to learn how to build a webpage for an About Me project. This inspired me to teach myselft the base foundations of Software Development. As I continue learning about Software Development, I have found that my passion is Accessibility and Front-End. 
+I find programming exciting becasue I enjoy the process of solving problems and building something that others can interact with. My coding journey began as a personal desire to learn how to build a webpage for an About Me project. Shortly after learning the basics I was asked to help storyboard and develop an updated landing page to manage program updates at a local college where I worked. This inspired me to teach myselft the base foundations of Software Development. As I continue learning about Software Development, I have found that my passion is Accessibility and Front-End. 
 
 As I continue learning at the beginning of my journey to become a developer, I've accumulated hands-on experience with HTML, CSS, and JavaScript. Currently, I am completing free online courses, follow-along videos, and online exercises. 
 
